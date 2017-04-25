@@ -8,18 +8,6 @@ import java.io.InputStreamReader;
  * @author raulg
  *
  */
-/**
- * @author raulg
- *
- */
-/**
- * @author raulg
- *
- */
-/**
- * @author raulg
- *
- */
 public class Ejercicio01 {
 
 	/**
@@ -122,7 +110,7 @@ public class Ejercicio01 {
 	}
 
 
-	/**Function to convert € to linkia coins 1€=0.5linkia coins
+	/**Function to convert â‚¬ to linkia coins 1â‚¬=0.5linkia coins
 	 * @return a double converted to linkia coins
 	 * @throws IOException
 	 */
